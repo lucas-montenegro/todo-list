@@ -1,0 +1,67 @@
+.contentWrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    .checkboxWrapper {
+        position: absolute;
+        left: 740px;
+        margin-right: 8px;
+
+        input {
+            display: none;
+        }
+
+        span svg {
+            width: 32px;
+            height: 26px;
+            fill: var(--primary-color);
+
+            &:hover {
+                cursor: pointer;
+            }
+        }
+    }
+
+    p {
+        width: 280px;
+        display: inline;
+        
+        color: var(--primary-color);
+        font-size: 24px;
+        line-height: 26px;
+        text-align: left;
+
+        margin: 0 20px 20px 240px;
+        margin-left: 240px;
+        margin-bottom: 5px;
+        padding: 5px 8px;
+    }
+
+    button {
+        width: 48px;
+        height: 32px;
+        background-color: transparent;
+        font-size: 12px;
+
+        border: 0;
+        border-radius: 6px;
+        
+
+        svg {
+            width: 20px;
+            height: 26px;
+            fill: var(--primary-color);
+        }
+
+        &:hover { 
+            cursor: pointer;
+            transition: 0.4s;
+            opacity: 0.4;
+        }
+    }
+}
+
+.isCompleted {
+    text-decoration: line-through;
+}
