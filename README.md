@@ -3,7 +3,7 @@
 ---
 ### About it :bookmark_tabs:
 
-This project is a Todo List build with ReactJS and Vite. It has three functionalities: 
+This project is a Todo List built with ReactJS and Vite. It has three functionalities: 
 - Add a new task
 - Update a task 
 - Remove a task
