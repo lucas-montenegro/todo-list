@@ -1,4 +1,4 @@
-## Concepts of ReactJS ![ReactJS](https://img.shields.io/badge/ReactJS-gray?style=flat&logo=react) ![License MIT](https://img.shields.io/badge/license-MIT-green?style=flat)
+## TODO List ![ReactJS](https://img.shields.io/badge/ReactJS-gray?style=flat&logo=react) ![License MIT](https://img.shields.io/badge/license-MIT-green?style=flat)
 
 ---
 ### About it :bookmark_tabs:
